@@ -19,7 +19,6 @@ namespace Infrastructure.Repository
         {
             _optionsBuilder = new DbContextOptions<Context>();
         }
-
         public async Task<bool> AdicionarUsuario(string email, string senha, int idade, string celular)
         {
             try

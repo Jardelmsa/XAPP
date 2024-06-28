@@ -12,3 +12,4 @@ C:\Users\jarde\source\repos\DDD-APP\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Users\jarde\source\repos\DDD-APP\Entities\bin\Debug\net5.0\Entities.runtimeconfig.json
 C:\Users\jarde\source\repos\DDD-APP\Entities\bin\Debug\net5.0\Entities.runtimeconfig.dev.json
 C:\Users\jarde\source\repos\DDD-APP\Entities\obj\Debug\net5.0\Entities.genruntimeconfig.cache
+C:\Users\jarde\source\repos\DDD-APP\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache

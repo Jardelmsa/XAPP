@@ -1,0 +1,15 @@
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\Entities.dll
+C:\Users\jarde\source\repos\DDD-APP\Domain\bin\Debug\net5.0\Entities.pdb
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.csproj.CopyComplete
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\jarde\source\repos\DDD-APP\Domain\obj\Debug\net5.0\Domain.pdb

@@ -1,0 +1,7 @@
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jarde\source\repos\DDD-APP\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache

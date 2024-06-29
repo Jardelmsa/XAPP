@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{311D7054-E91F-454C-BB46-70E07FA92BA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.Noticies", "WebAPI.Noticies\WebAPI.Noticies.csproj", "{965A8CF3-A352-45E8-BC2F-906B74FB63C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{311D7054-E91F-454C-BB46-70E07FA92BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311D7054-E91F-454C-BB46-70E07FA92BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311D7054-E91F-454C-BB46-70E07FA92BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965A8CF3-A352-45E8-BC2F-906B74FB63C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965A8CF3-A352-45E8-BC2F-906B74FB63C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965A8CF3-A352-45E8-BC2F-906B74FB63C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965A8CF3-A352-45E8-BC2F-906B74FB63C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +58,7 @@ Global
 		{5A4CE2A0-7692-4ED8-A842-911A4111A988} = {F6A477A7-DC2F-46FA-81CE-7A521A19DDC5}
 		{64AD8D87-A607-4895-9C07-59A5A8137B28} = {8FBA4767-CEE8-4AC9-B284-893A889D097B}
 		{311D7054-E91F-454C-BB46-70E07FA92BA6} = {2D0FA26B-CB3D-4F9F-A924-48A355F0EFE4}
+		{965A8CF3-A352-45E8-BC2F-906B74FB63C9} = {28B79021-DFFE-4E47-BFC7-973D4CC19895}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65054AE1-01AA-4E5D-8539-AD1BAC3CA8DC}

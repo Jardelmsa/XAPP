@@ -24,7 +24,7 @@ namespace Infrastructure.Configs
         public DbSet<Noticia> Noticia { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
-        public string GetStringConection()
+        public string GetStringConnection()
         {
             string strCon = "Data Source=DESKTOP-QO629LP\\SQLEXPRESS;Initial Catalog=DBDDD_PROJECT;Integrated Security=True";
             return strCon;

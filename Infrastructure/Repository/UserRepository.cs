@@ -44,5 +44,25 @@ namespace Infrastructure.Repository
             }
             return true;
         }
+
+        public async Task<bool> ExisteUsuario(string email, string senha)
+        {
+            try
+            {
+                using (var data = new Context(_optionsBuilder))
+                {
+                    return await data.ApplicationUsers
+                        .Where(u => u.Email.Equals(email) && u.PasswordHash.Equals(senha))
+                        .AsNoTracking()
+                        .AnyAsync();
+                }
+            }
+            catch (Exception)
+            {
+                return false;
+
+            }
+            return true;
+        }
     }
 }

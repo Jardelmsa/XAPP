@@ -47,6 +47,15 @@ namespace WebAPI.Noticies
             services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = false)
                 .AddEntityFrameworkStores<Context>();
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",
+                    builder => builder
+                        .WithOrigins("http://localhost:4200") // Adicione a origem do Angular aqui
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+            });
+
             //Add  Interfaces and Rpository in Singleton
             services.AddSingleton(typeof(IGenerics<>), typeof (GenericRepository<>));
             services.AddSingleton<INoticies, NoticiesRepository>();
@@ -110,7 +119,11 @@ namespace WebAPI.Noticies
 
             app.UseRouting();
 
+            app.UseCors("AllowSpecificOrigin");
+
             app.UseAuthorization();
+
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
